@@ -1,0 +1,17 @@
+.divOptions {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 5px;
+}
+
+.btn {
+    display: block;
+    cursor: pointer;
+    border-color: rgb(133, 130, 130);
+    background-color: rgb(235, 235, 232);
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+}
